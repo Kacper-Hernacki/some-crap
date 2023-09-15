@@ -1,0 +1,16 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+button {
+  margin-top: 20px;
+  background-color: black;
+  color: aliceblue;
+  border: 1px solid black;
+  border-radius: 32px;
+  height: 48px;
+  width: 400px;
+}
